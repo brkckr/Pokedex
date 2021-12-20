@@ -6,4 +6,4 @@
 <h4 align="left">Pokedex App with MVVM, JetPack Compose, Dagger-Hilt, Coroutines, Retrofit, Coil. :zap::fire::droplet::four_leaf_clover:
 </h4>
 
-![screenshot](https://im5.ezgif.com/tmp/ezgif-5-a8cff7c9fd.gif)
+![screenshot](https://user-images.githubusercontent.com/14269947/146752486-dbd9e900-4e9d-4ec9-b7ed-ca26ce189427.gif)
